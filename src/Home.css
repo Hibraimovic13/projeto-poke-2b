@@ -1,0 +1,13 @@
+div {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: black;
+    width: 305px;
+    height: 505px;
+}
+
+ img{
+    width: 110px;
+    height: 85px;
+ }
