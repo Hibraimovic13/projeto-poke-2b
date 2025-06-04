@@ -2,7 +2,7 @@ div {
     display:flex;
     flex-wrap: nowrap;
     flex-direction: column;
-    background-color: yellow;
+    background-color: purple;
     width: 405px;
     height: 605px;
     justify-content: space-around;
